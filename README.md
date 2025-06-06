@@ -28,7 +28,7 @@ Este é um **aplicativo desktop** desenvolvido em Python que permite o envio de 
 
 ## 📸 Interface da Aplicação
 
-![Interface](https://imgur.com/a/NMq6tq8)
+![Interface](interface_AutoMailerX.png)
 
 ---
 
