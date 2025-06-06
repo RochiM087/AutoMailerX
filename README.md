@@ -52,8 +52,8 @@ Maria Oliveira,maria@email.com
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seunome/email-sender-app.git
-cd email-sender-app
+git clone https://github.com/RochiM087/AutoMailerX
+cd AutoMailerX
 ```
 
 ### 2. Instale as dependências
@@ -66,7 +66,7 @@ pip install pandas
 
 ### 3. Configure suas credenciais
 
-Edite as seguintes variáveis no topo do arquivo Python:
+Edite as seguintes variáveis no topo do arquivo main.py:
 
 ```python
 EMAIL_REMETENTE = 'seuemail@gmail.com'
@@ -80,7 +80,7 @@ LOGO_URL = 'https://seudominio.com/sualogo.png'
 ### 4. Execute o programa
 
 ```bash
-python email_sender.py
+python main.py
 ```
 
 ---
