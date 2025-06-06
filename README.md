@@ -1,4 +1,4 @@
-<h1 align="center">AutoMailerX - Envio Automatizado de E-mails com Python 💌</h1>
+<h1 align="center">AutoMailerX - Envio Automatizado de E-mails com Python ✉️</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python" />
