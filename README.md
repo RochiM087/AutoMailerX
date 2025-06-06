@@ -28,7 +28,7 @@ Este é um **aplicativo desktop** desenvolvido em Python que permite o envio de 
 
 ## 📸 Interface da Aplicação
 
-![Interface]([https://i.imgur.com/ZMBN6AK.png](https://imgur.com/a/NMq6tq8)) <!-- Substitua pelo seu screenshot real do app -->
+![Interface](https://imgur.com/a/NMq6tq8)
 
 ---
 
